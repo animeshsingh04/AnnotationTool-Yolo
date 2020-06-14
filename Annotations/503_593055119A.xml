@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>503_593055119A.jpg</filename>
+	<path>./images/503_593055119A.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>543</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MemberId</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>197</ymin>
+			<xmax>208</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>MEDICARE HEALTH INSURANCE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>36</ymin>
+			<xmax>513</xmax>
+			<ymax>81</ymax>
+		</bndbox>
+	</object>
+</annotation>
